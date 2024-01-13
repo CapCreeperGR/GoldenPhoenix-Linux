@@ -1,0 +1,11 @@
+NAME="GoldenPhoenix"
+PRETTY_NAME="GoldenPhoenix"
+ID=goldenphoenix
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://goldenphoenix-linux.com"
+DOCUMENTATION_URL="https://wiki.goldenphoenix-linux.com/"
+SUPPORT_URL="https://support.goldenphoenix-linux.com/"
+BUG_REPORT_URL="https://bugs.goldenphoenix-linux.com/"
+PRIVACY_POLICY_URL="https://tos.goldenphoenix-linux.org/"
+LOGO=goldenphoenix-logo

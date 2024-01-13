@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+if test -d /boot/efi/EFI/refind; then
+  sudo mkdir /boot/efi/EFI/refind/themes
+  sudo cp -r /usr/local/share/refind/refind-ambience /boot/efi/EFI/refind/themes/refind-ambience
+  sudo echo "include themes/refind-ambience/theme.conf" >> /boot/efi/EFI/refind/refind.conf
+fi
+
+if test -d /boot/EFI/refind; then
+  sudo mkdir /boot/EFI/refind/themes
+  sudo cp -r /usr/local/share/refind/refind-ambience /boot/EFI/refind/themes/refind-ambience
+  sudo echo "include themes/refind-ambience/theme.conf" >> /boot/EFI/refind/refind.conf
+fi
+
+if test -d /efi/refind; then
+  sudo mkdir /efi/EFI/refind/themes
+  sudo cp -r /usr/local/share/refind/refind-ambience /efi/EFI/refind/themes/refind-ambience
+  sudo echo "include themes/refind-ambience/theme.conf" >> /efi/EFI/refind/refind.conf
+fi
+
+sudo rm /usr/local/bin/setup-refind

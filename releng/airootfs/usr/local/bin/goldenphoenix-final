@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+for dir in /home/*/; do
+  if [ $dir != "/home/lost+found" ]; then
+    sudo rm $dir/Desktop/calamares.desktop
+  fi
+done
+
+sudo pacman -Syu
+
+sudo rm /usr/local/bin/Installation_guide
+sudo rm /usr/local/bin/choose-mirror
+sudo rm /usr/local/bin/livecd-sound
+sudo rm -rf /etc/calamares
+sudo rm /etc/sudoers.d/g_wheel
+sudo /usr/local/bin/setup-refind
+sudo rm /usr/local/bin/goldenphoenix-final

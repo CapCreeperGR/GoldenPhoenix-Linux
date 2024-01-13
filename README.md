@@ -9,7 +9,7 @@ A simple to install Arch Linux Distribution that can be used by anyone
 - [CapCreeperGR](https://github.com/Capcreepergr)
 
 ### Screenshots
-
+![GoldenPhoenix Desktop](screenshots/screenshot-01.png?raw=true)
 
 ### Project Information
 GoldenPhoenix is based on the archlinux [ArchISO](https://gitlab.archlinux.org/archlinux/archiso) package.

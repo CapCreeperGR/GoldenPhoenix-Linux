@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+pacman-key --init
+pacman-key --populate
+
+sudo rm /etc/sddm.conf.d/autologin.conf
+sudo rm /usr/local/bin/goldenphoenix-before
