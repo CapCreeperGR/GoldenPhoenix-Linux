@@ -142,9 +142,11 @@ goldenphoenix-repository/neofetch
 xorg
 sddm
 plasma
+packagekit-qt5
 kate
 konsole
 firefox
+partitionmanager
 gparted
 dolphin
 goldenphoenix-calamares
