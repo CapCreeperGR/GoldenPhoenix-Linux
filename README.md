@@ -12,9 +12,9 @@ A simple to install Arch Linux Distribution that can be used by anyone
 ![GoldenPhoenix Desktop](screenshots/screenshot-01.png?raw=true)
 
 ### Project Information
-GoldenPhoenix is based on the archlinux [ArchISO](https://gitlab.archlinux.org/archlinux/archiso) package.
+GoldenPhoenix is a passion project that I have wanted to work on for a long time. It is not meant to be a distro to replace all other distros. It is mostly just a system that I personally would like to daily drive and that doesn't come with a lot of bloat. That being said I would still like to make this distro as good as I possibly can for both linux beginners and linux "veterans" while still providing an experience that I would personally be interested in!
 
-GoldenPhoenix comes bundled with [KDE Plasma](https://kde.org/plasma-desktop/), a feature-rich Desktop Environment, along with a clean modified theme that is very easy to use. In addition to all of this GoldenPhoenix comes with the [Calamares](https://calamares.io/) installer built into the Live Environment to give users an easy to way to get it setup and running
+This project is based on the archlinux [ArchISO](https://gitlab.archlinux.org/archlinux/archiso) package. It comes bundled with [KDE Plasma](https://kde.org/plasma-desktop/), a feature-rich Desktop Environment, along with a clean modified theme that is very easy to use. In addition to all of this GoldenPhoenix comes with the [Calamares](https://calamares.io/) installer built into the Live Environment to give users an easy to way to get it setup and running
 
 ### Installation Guide
 - Download the latest GoldenPhoenix ISO file from the releases page
