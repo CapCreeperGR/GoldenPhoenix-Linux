@@ -138,7 +138,7 @@ zsh
 wget
 curl
 git
-neofetch
+goldenphoenix-repository/neofetch
 xorg
 sddm
 plasma
