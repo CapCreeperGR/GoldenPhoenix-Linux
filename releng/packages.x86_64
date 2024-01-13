@@ -139,6 +139,7 @@ wget
 curl
 git
 goldenphoenix-repository/neofetch
+goldenphoenix-repository/lsb-release
 xorg
 sddm
 plasma
