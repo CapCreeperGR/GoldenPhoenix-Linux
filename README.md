@@ -1,5 +1,5 @@
 
-# GoldenPhoenix Linux
+# GoldenPhoenix Linux (Project is cancelled, you probably shouldn't use this)
 
 ## This project is still very early in development it is not recommended to be used on real hardware at the moment. Use it at your own risk
 
